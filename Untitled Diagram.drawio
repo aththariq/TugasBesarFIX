@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T12:49:50.090Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="lqUxHiDmHQ_7MGaB_r4g" version="21.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-01T12:56:55.117Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" etag="7YEbLxKBqLVKe3Hi278-" version="21.2.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="795" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,14 +127,26 @@
         <mxCell id="ORc7eQvtyH6hW8fFVzIy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORc7eQvtyH6hW8fFVzIy-4" target="ORc7eQvtyH6hW8fFVzIy-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORc7eQvtyH6hW8fFVzIy-4" target="ORc7eQvtyH6hW8fFVzIy-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ORc7eQvtyH6hW8fFVzIy-4" value="Jin != 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ORc7eQvtyH6hW8fFVzIy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORc7eQvtyH6hW8fFVzIy-8" target="ORc7eQvtyH6hW8fFVzIy-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ORc7eQvtyH6hW8fFVzIy-8" value="Apakah Jenis Jin 1 atau 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="440" width="90" height="100" as="geometry" />
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORc7eQvtyH6hW8fFVzIy-8" target="ORc7eQvtyH6hW8fFVzIy-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="370.0000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="490" />
+              <mxPoint x="490" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-8" value="Apakah Jenis &lt;br&gt;Jin 1 atau 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="440" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ORc7eQvtyH6hW8fFVzIy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORc7eQvtyH6hW8fFVzIy-12" target="ORc7eQvtyH6hW8fFVzIy-13">
           <mxGeometry relative="1" as="geometry" />
@@ -210,6 +222,21 @@
         </mxCell>
         <mxCell id="ORc7eQvtyH6hW8fFVzIy-46" value="Belum" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ORc7eQvtyH6hW8fFVzIy-47" target="ORc7eQvtyH6hW8fFVzIy-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-47" value="&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: start;&quot; id=&quot;docs-internal-guid-07676c21-7fff-3f56-17d0-2ee605add558&quot;&gt;&lt;/span&gt;&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: start;&quot; id=&quot;docs-internal-guid-07676c21-7fff-3f56-17d0-2ee605add558&quot;&gt;&lt;/span&gt;&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;span style=&quot;text-align: start;&quot; id=&quot;docs-internal-guid-0a60cedc-7fff-5df2-ef23-b09927b6d9ce&quot;&gt;&lt;/span&gt;Print &quot;Tidak Dapat&amp;nbsp;&lt;br&gt;Summon, Jumlah Jin Maksimal&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-49" value="Tidak" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="433" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-52" value="Stop" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ORc7eQvtyH6hW8fFVzIy-60" value="Tidak" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
